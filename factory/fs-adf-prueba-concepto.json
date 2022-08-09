@@ -1,0 +1,9 @@
+{
+	"name": "fs-adf-prueba-concepto",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d784be87-2592-4bd9-b5df-f14fffb7ee86",
+		"tenantId": "5b973f99-77df-4beb-b27d-aa0c70b8482c"
+	}
+}
